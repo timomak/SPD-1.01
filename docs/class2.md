@@ -113,12 +113,12 @@ Alan's:
 
 You should **NOT** write any code (or even pseudocode), you’re just coming up with lots of different ideas, organizing your thoughts, and thinking out loud about how you would approach the problem.
 
-### Do:
+#### Do:
 * Walk through the problem by hand, using a small example input (e.g., array of 3 or 4 elements) or a data structure diagram (e.g., linked list of 3 nodes that you can reverse manually)
 * Create a list of solution ideas with keywords to remind you (e.g., “sort array => binary search”)
 * Name a few common data structures and see if you could apply any of them to the problem
 
-### Don’t:
+#### Don’t:
 * Get stuck on one idea for too long – the goal is to generate a list of several solution ideas
 * Get into the implementation details of a solution – remember, this is the brainstorming step!
 * Stay quiet and wait for the perfect solution to strike you like lightning from the gods of coding
@@ -135,3 +135,43 @@ Explain the rationale of your solution to justify your choices and demonstrate y
 * “I want to sort the array so that I can use binary search to find a value.”
 * “I’ll use a hash table because I can look up a value by key very quickly.”
 * “Using a set makes sense because we don’t want duplicate elements.”
+
+## Discuss tradeoffs
+Explain the tradeoffs (i.e., pros and cons) to your solution, as well as how it compares to other solution ideas you generated in the brainstorming phase.
+
+#### Examples of effective tradeoff statements:
+* “This is a naive solution, so it’s quick and easy to code and doesn’t use any extra memory, but its time complexity is O(n2), which is fairly slow.”
+* “This is better than my first solution because it only takes O(n log n) time.”
+* “This solution runs in O(n) time, which is really fast because a set uses a hash table for fast lookup but it takes O(n) extra memory and the output is in arbitrary order. Oh, and it also requires all input values to be hashable.”
+
+## Suggest Improvements
+Analyze the weaknesses (e.g., limitations or performance bottlenecks) in your solution and generate new ideas to discuss how you could improve upon it.
+
+If you have enough time, change your code to include this improved solution.
+
+#### Examples of analysis and suggested improvement:
+* “My solution takes O(n2) time, which is pretty slow, since it has a nested for loop. I need that because I’m searching the list for the other element. Oh, wait! Maybe I could search faster if I sort the list or instead use a set!”
+* “This solution is really fast, but it only works for numbers. I think I could also make it work for strings, but I’d have to change this part right here.”
+
+# In Class Activity
+With a partner, follow the notes and solve the solution. Once you're done, let them do the same.
+
+Best Solutions:
+1. `O(n)` Set and intersect function.
+2. `n * log(n)` First loop on one list, sort the second and run binary search.
+3. `O(n)^2` loop over both.
+
+# Homework
+* Worksheet ([link](https://docs.google.com/document/d/16NFUlOR9v-j23Z6IM80z8Ev5iogDCWf7OgfIkmP09NU/edit))
+  1. Fill out the worksheet by yourself
+  1. Compare your answers with a partner
+  1. Class views completed worksheet
+* Partner Assignment
+  * Find a partner and choose one of the below problems. You will go through the problem as if you were in an actual interview. Your partner will  play the interviewer, and will have a checklist to make sure you’re following the proper steps
+  * Swap roles and pick a different problem
+  * Repeat twice with a new partner for questions 3 and 4
+  * **Problems:**
+    * Fibonacci
+    * FizzBuzz
+    * Factorial
+    * Duplicate value
