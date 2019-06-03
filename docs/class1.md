@@ -57,7 +57,7 @@ Talk about
 7. Think about the situation from their prospective
 
 # Resources
-[Jeff's Link](https://docs.google.com/document/d/1q_6pEY0gOCzvK8junqE80KoNe4JzRWoKfS-4I86po4E/edit)
+[Jeff's Link](https://docs.google.com/document/d/1q_6pEY0gOCzvK8junqE80KoNe4JzRWoKfS-4I86po4E/edit) <br>
 [Job Board Make School Students](https://www.makeschool.com/job-board)
 
 
