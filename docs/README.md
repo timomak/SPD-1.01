@@ -2,6 +2,7 @@
 [Github Link](https://github.com/Make-School-Courses/SPD-1.01-Engineering-Careers-1)
 - // To Start: docsify serve ./docs
 
+
 ## Course Description
 
 This course focuses on engineering careers, particularly on learning the different types of engineers, problems they solve, tools they use, how they fit into the macro structure of an organization. Students will also focus on solving coding challenges and preparing for technical interviews.
