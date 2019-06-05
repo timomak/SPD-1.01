@@ -162,7 +162,7 @@ Best Solutions:
 3. `O(n)^2` loop over both.
 
 # Homework
-* Worksheet ([link](https://docs.google.com/document/d/16NFUlOR9v-j23Z6IM80z8Ev5iogDCWf7OgfIkmP09NU/edit))
+* Worksheet ([link](https://docs.google.com/document/d/1eW9jdLTXpWN2eNhkncqfcddDri1jQvW2W1zIYlFsq68/edit))
   1. Fill out the worksheet by yourself
   1. Compare your answers with a partner
   1. Class views completed worksheet
