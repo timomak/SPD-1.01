@@ -1,4 +1,5 @@
 # SPD Class 3 Communication (Part 2)
+[slides](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit#slide=id.g56adfcb699_1_0)
 
 ## Order of things in an interview
 1. Restate the problem
