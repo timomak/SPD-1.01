@@ -1,6 +1,8 @@
 # SPD 1.01 Timo's notes! - Career Prep
 [Github Link](https://github.com/Make-School-Courses/SPD-1.01-Engineering-Careers-1)
-- // To Start: docsify serve ./docs
+
+[Class Tracker](https://docs.google.com/spreadsheets/d/1HCeNSDsIw-aA_ZgDJyZ-9wTLuatrQ70jWVQJa_0qz4k/edit#gid=136456159)
+<!-- To Start: docsify serve ./docs -->
 
 
 ## Course Description
