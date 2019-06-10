@@ -235,5 +235,22 @@ Challenge:
 [x] Pseudocode - Jumped into code a little soon.<br>
 [] Negotiate<br>
 
+```Python
+def sum(array, target):
+  """
+  array: [Int]
+  target: Int
+
+  Run-time: O(n^2)
+  """
+
+  for item in array:
+    new_target = t - item
+
+    if array.contain(new_target) == True:
+      return (item, new_target)
+  return None
+```
+
 # Homework
 Watch 2 videos from [Interviewing.io](https://interviewing.io/recordings/) and write down two new things you learned from each video in the course tracker
