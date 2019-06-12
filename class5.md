@@ -41,7 +41,7 @@ Slides [link](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gs
 
 ## Practice Interview
 
-Interviewer: Timo
+Interviewer: Timo<br>
 Interviewee: Tom  
 
 Challenge:
